@@ -226,10 +226,20 @@
   "parentDirectoryId": null,
   "externalScripts": [],
   "externalStylesheets": [],
-  "localScripts": [],
+  "localScripts": [
+    {
+      "path": "a.js",
+      "order": 1
+    }
+  ],
   "localStylesheets": [
     {
-      "path": "index.css"
+      "path": "index.css",
+      "order": 2
+    },
+    {
+      "path": "a.css",
+      "order": 3
     }
   ]
 }
