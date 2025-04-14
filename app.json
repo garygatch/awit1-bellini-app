@@ -21,6 +21,14 @@
   "directories": null,
   "externalScripts": [],
   "externalStylesheets": [],
-  "localScripts": [],
-  "localStylesheets": []
+  "localScripts": [
+    {
+      "path": "a.js"
+    }
+  ],
+  "localStylesheets": [
+    {
+      "path": "a.css"
+    }
+  ]
 }
