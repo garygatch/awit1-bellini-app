@@ -218,9 +218,7 @@
     }
   ],
   "modules": [],
-  "marketplaceId": null,
   "formControl": null,
-  "transclude": null,
   "styles": [],
   "directories": null,
   "parentDirectoryId": null,
@@ -234,12 +232,12 @@
   ],
   "localStylesheets": [
     {
-      "path": "index.css",
-      "order": 2
-    },
-    {
       "path": "a.css",
       "order": 3
+    },
+    {
+      "path": "index.css",
+      "order": 2
     }
   ]
 }
